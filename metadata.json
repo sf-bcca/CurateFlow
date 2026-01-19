@@ -1,0 +1,5 @@
+{
+  "name": "CurateFlow",
+  "description": "An intelligent, intent-based curation engine that transforms the chaotic ocean of YouTube content into structured, hyper-personalized playlists.",
+  "requestFramePermissions": []
+}
